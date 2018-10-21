@@ -1,2 +1,3 @@
 there are two nu
 two number addition
+memory is the place where we store the data in computer.
